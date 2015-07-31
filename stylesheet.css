@@ -1,0 +1,19 @@
+.name-email {
+	color:red;
+	font-size: 25px;
+	border:5px dashed black;
+	padding:10px;
+	margin: 10px;
+}
+
+#name {
+	float:left;
+}
+
+#email {
+	float:right;
+}
+
+.footer {
+	clear:both;
+}
